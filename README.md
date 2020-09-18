@@ -3,7 +3,7 @@
 ## Tabla de Contenido
 
 * [Reglas](#reglas)
-* [Soluciones de Problemas](https://github.com/Josej2r/Project_Euler/blob/master/Soluciones.md)
+* [Enunciados y soluciones de los problemas](https://github.com/Josej2r/Project_Euler/blob/master/Soluciones.md)
 * [Preguntas y respuestas](#FAQ)
 
 <a name="reglas"></a> 
