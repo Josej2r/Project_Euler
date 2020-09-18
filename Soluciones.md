@@ -1,4 +1,4 @@
-# Soluciones de los Problemas
+# Enunciados y soluciones de los problemas
 
 ## Indice de problemas
 
