@@ -2,6 +2,10 @@
 
 ## Tabla de Contenido
 
+* Reglas
+* Soluciones de Problemas
+* Preguntas y respuestas
+
 ## Reglas
 
 1. Envíe una foto de usted mismo dando un pulgar hacia arriba y anunciando que se está comprometiendo con el desafío # ProjectEuler100.
