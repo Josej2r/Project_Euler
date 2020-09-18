@@ -2,10 +2,11 @@
 
 ## Tabla de Contenido
 
-* Reglas
-* Soluciones de Problemas
-* Preguntas y respuestas
+* [Reglas](#reglas)
+* [Soluciones de Problemas](https://github.com/Josej2r/Project_Euler/blob/master/Soluciones.md)
+* [Preguntas y respuestas](#FAQ)
 
+<a name="reglas"></a> 
 ## Reglas
 
 1. Envíe una foto de usted mismo dando un pulgar hacia arriba y anunciando que se está comprometiendo con el desafío # ProjectEuler100.
@@ -15,6 +16,7 @@
 5. Pase al próximo desafío del Proyecto Euler. No puedes adelantarte. Tienes que completar los 100 problemas en orden. Pero puede usar cualquier lenguaje de programación que desee para resolverlos.
 6. Una vez que hayas terminado los 100, tuitea una foto de celebración tuya con tu computadora portátil abierta en tu repositorio de GitHub.
 
+<a name="FAQ"></a> 
 ## Preguntas y respuestas
 
 __¿Dónde hago mi codificación?__
